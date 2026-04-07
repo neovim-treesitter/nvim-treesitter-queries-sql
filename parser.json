@@ -1,0 +1,8 @@
+{
+  "location": null,
+  "semver": false,
+  "url": "https://github.com/derekstride/tree-sitter-sql",
+  "lang": "sql",
+  "min_version": null,
+  "max_version": null
+}
