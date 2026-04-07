@@ -1,9 +1,7 @@
 {
-  "location": null,
-  "semver": false,
-  "url": "https://github.com/derekstride/tree-sitter-sql",
   "lang": "sql",
-  "parser_version": null,
-  "generate": true,
-  "generate_from_json": false
+  "url": "https://github.com/derekstride/tree-sitter-sql",
+  "semver": false,
+  "parser_version": "851e9cb257ba7c66cc8c14214a31c44d2f1e954e",
+  "location": null
 }
