@@ -3,6 +3,7 @@
   "semver": false,
   "url": "https://github.com/derekstride/tree-sitter-sql",
   "lang": "sql",
-  "min_version": null,
-  "max_version": null
+  "parser_version": null,
+  "generate": true,
+  "generate_from_json": false
 }
